@@ -24,7 +24,7 @@
 &ensp;
 <img src="https://komarev.com/ghpvc/?username=JestinThomas&style=flat-square&color=a3e4d7&label=Profile+Views"/>
 &ensp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2c5364?style=flat-square"/>
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <table>
 <tr>
-<td align="center" colspan="5">
+<td align="center" colspan="8">
 <b>Core Focus Areas</b>
 </td>
 </tr>
@@ -69,6 +69,9 @@
 <td align="center"><img src="https://img.shields.io/badge/Generative_AI-%230f2027.svg?style=flat-square&labelColor=2c5364&color=2c5364"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Reinforcement_Learning-%230f2027.svg?style=flat-square&labelColor=203a43&color=203a43"/></td>
 <td align="center"><img src="https://img.shields.io/badge/Deep_Learning-%230f2027.svg?style=flat-square&labelColor=2c5364&color=2c5364"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Statistical_Modelling-%230f2027.svg?style=flat-square&labelColor=203a43&color=203a43"/></td>
+<td align="center"><img src="https://img.shields.io/badge/EDA_%26_Visualisation-%230f2027.svg?style=flat-square&labelColor=2c5364&color=2c5364"/></td>
+<td align="center"><img src="https://img.shields.io/badge/BI_Dashboards_%26_KPIs-%230f2027.svg?style=flat-square&labelColor=203a43&color=203a43"/></td>
 </tr>
 </table>
 
@@ -76,7 +79,7 @@
 
 ![Location](https://img.shields.io/badge/Bengaluru,_India-0f2027?style=flat-square&logo=googlemaps&logoColor=a3e4d7)
 &ensp;
-![Seeking](https://img.shields.io/badge/Open_to_Work-AI%2FML_Engineer_·_Data_Scientist_·_GenAI_Engineer-22c55e?style=flat-square)
+![Seeking](https://img.shields.io/badge/Open_to_Work-AI%2FML_Engineer_·_Data_Scientist_·_GenAI_Engineer-2c5364?style=flat-square)
 
 </div>
 
@@ -391,7 +394,7 @@ Original industrial design co-developed and officially registered with the Gover
 <th>Intellectual Property</th>
 </tr>
 <tr>
-<td align="center">MSc Data Science<br/>CHRIST University<br/>2024 – 2026</td>
+<td align="center">MSc Data Science<br/>CHRIST University<br/>2024 – 2026<br/><br/>BSc Statistics<br/>MG University</td>
 <td align="center">AI/ML Intern — TechZia<br/>Data Science — Seeroo IT<br/>6+ months hands-on</td>
 <td align="center">IEEE ICVADV-2026<br/>Generative AI<br/>Published Researcher</td>
 <td align="center">Design Patent<br/>No. 443142-001<br/>Govt. of India</td>
