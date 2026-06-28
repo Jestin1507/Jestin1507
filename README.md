@@ -1,282 +1,351 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jestin%20Thomas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20IEEE%20Researcher%20%E2%80%A2%20GenAI%20Builder&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jestin%20Thomas&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%20%E2%80%A2%20%20IEEE%20Researcher%20%20%E2%80%A2%20%20GenAI%20Builder&descAlignY=62&descSize=17&descColor=a3e4d7" width="100%"/>
 
-<!-- Typing Animation -->
+<br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+from+Scratch;CNN+%2B+LSTM+%2B+MARL+for+AV+Cybersecurity;LLMOps+%7C+RAG+%7C+Generative+AI;IEEE-Published+%7C+Patent+Co-Holder;MSc+Data+Science+%E2%80%94+CHRIST+University" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<!-- Badges Row -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=JestinThomas&label=Profile+Views&color=6EE7B7&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jestin-thomas-90a109317/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:jestinthomas1507@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Work-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/>
-</p>
-
-</div>
-
----
-
-<!-- About Section with ASCII art feel -->
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  whoami                                                                 │
-│  ───────                                                                │
-│  MSc Data Science @ CHRIST University, Bengaluru (2024–2026)           │
-│  AI/ML Engineer Intern @ TechZia  (Jan–Jun 2026)                       │
-│  IEEE-Published Researcher · ICVADV-2026                               │
-│  Government of India Design Patent Co-Holder · No. 443142-001          │
-│  Specialisation → LLMs · RAG · Generative AI · RL · Deep Learning     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-## ⚡ What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 AI & Deep Learning**
-- Real-time anomaly detection with CNN + LSTM on AV sensor streams
-- Multi-Agent RL frameworks (DQN-based MARL) for autonomous vehicle cybersecurity
-- Generative model benchmarking: Conditional DCGAN vs VAE vs Diffusion Models
-- LLMOps platforms with automated regression detection and CI/CD quality gates
-
-</td>
-<td width="50%" valign="top">
-
-**📊 Data Science & BI**
-- End-to-end market intelligence platforms (EDA → ML → Dashboard)
-- NLP pipelines with LangChain, RAG, and AI Agents
-- Interactive Streamlit & Power BI dashboards for business insights
-- Statistical modelling, KPI reporting, and predictive analytics
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**AI / ML / DL**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-
-**GenAI & LLMOps**
-
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-6EE7B7?style=for-the-badge&logo=googlegemini&logoColor=black)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-
-**Deployment & Cloud**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Data & BI**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🚗 AI/ML Engineer Intern — TechZia *(Jan 2026 – Jun 2026)*
-
-> *Building autonomous vehicle cybersecurity systems with deep learning and multi-agent reinforcement learning*
-
-- Architected a **CNN + LSTM real-time anomaly detection pipeline** on AV telemetry (IMU, CAN bus, GPS) within **ROS 2 Humble**, enabling continuous inference across 3 concurrent sensor streams
-- Engineered a **DQN-based Multi-Agent RL (MARL) framework** with 3 specialised agents (sensor security, vehicle behaviour, network cybersecurity) orchestrated by a hierarchical global decision agent
-- Preprocessed the **comma.ai AV dataset** via vectorised NumPy pipelines; researched CNN-Transformer hybrid and GNN-based multi-sensor fusion architectures for vehicle network intrusion detection
-
-### 🔬 Data Science Intern — Seeroo IT Solutions *(Apr 2025 – May 2025)*
-
-> *NLP pipeline optimisation and conversational AI development*
-
-- Optimised NLP inference pipelines achieving a **62% latency reduction** while sustaining **500+ queries/day** throughput
-- Built and deployed an end-to-end **AI chatbot** using LangChain and RAG architecture for intelligent Q&A
-
----
-
-## 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 LLM Regression Detection System
-**`Python` `Streamlit` `Groq Llama 3.1` `GitHub Actions`**
-
-Enterprise-grade **LLMOps platform** for evaluating and comparing LLM prompt versions, automatically detecting performance regressions, and generating deployment-ready evaluation reports.
-
-- Benchmarks prompts against golden datasets; measures classification accuracy across versions
-- **Automated CI/CD quality gates** via GitHub Actions integration
-- Interactive dashboard: leaderboards, regression history, performance trends, and downloadable reports (JSON, CSV, HTML)
-- Modular multi-provider architecture — easily extendable to new LLM backends
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ Zomato Market Intelligence Platform
-**`Python` `Scikit-learn` `Plotly` `Streamlit` `TextBlob`**
-
-End-to-end **data science + BI platform** analysing Bengaluru's restaurant ecosystem — processing 12,000+ restaurants to surface market trends, pricing strategy, and location-wise performance.
-
-- Full pipeline: data cleaning → EDA → feature engineering → sentiment analysis → K-Means clustering → **Random Forest rating prediction**
-- **Market Expansion Advisor**: recommends optimal restaurant locations using cuisine demand, competition, budget, and a custom success score
-- Interactive Streamlit dashboard: market overview, location intelligence, cuisine demand analysis
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐦 Automated Species Identification
-**`Python` `ResNet50` `VGG16` `TensorFlow` `Flask`**
-
-CNN transfer learning on **10,000+ images** across 90 species; boosted accuracy **35% → 91.76%** via systematic hyperparameter tuning.
-
-- Production **REST API (Flask)** serving 100+ req/sec at <200ms inference latency
-
-</td>
-<td width="50%" valign="top">
-
-### ☀️ Solar Flare Classification
-**`Python` `DenseNet121` `GRU` `Attention` `TensorFlow.js` `React`**
-
-Spatio-temporal model on **8,000+ satellite sequences** achieving 75% accuracy with 58% M-class and 36% X-class rare event recall.
-
-- Deployed **client-side via TensorFlow.js in React** — zero backend infrastructure required
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 📊 Retail Profitability Intelligence Dashboard
-**`Python` `SQL` `Power BI` `Pandas`**
-
-Engineered Profit Margin and Risk Score metrics; built an interactive Power BI dashboard with KPI cards, category-wise sales, regional profit heatmaps, and dynamic slicers for pricing and inventory strategy.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔬 Research & IP
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 📄 IEEE-Indexed Paper — ICVADV-2026 *(Feb 2026)*
-**Synthetic Data Augmentation for Robust Solar Flare Classification: Comparative Analysis of Conditional DCGAN, VAE and Diffusion Models**
-
-Benchmarked 3 generative architectures for synthetic astronomical image generation. Improved classifier robustness on severely imbalanced datasets — published in IEEE Computational Intelligence Society proceedings.
-
-</td>
-<td width="40%" valign="top">
-
-### 🏛️ Design Patent — Govt. of India *(Jan 2025)*
-**Mobile Cooler**
-Class 23-04 · Patent No. 443142-001
-
-Official recognition of original industrial design co-developed and registered with the Government of India.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JestinThomas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff&ring_color=6EE7B7" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JestinThomas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=ffffff" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JestinThomas&theme=tokyonight&hide_border=true&background=0D1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" height="170"/>
-
-</div>
-
----
-
-## 🏆 Credentials at a Glance
-
-<div align="center">
-
-| 🎓 Education | 🏢 Experience | 📄 Research | 🏛️ IP |
-|:---:|:---:|:---:|:---:|
-| MSc Data Science | AI/ML Intern @ TechZia | IEEE ICVADV-2026 | Design Patent |
-| CHRIST University | Data Science @ Seeroo | Generative AI | No. 443142-001 |
-| 2024 – 2026 | 6+ months hands-on | Published Research | Govt. of India |
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:jestinthomas1507@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jestinthomas1507%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/jestin-thomas-90a109317/">
-  <img src="https://img.shields.io/badge/LinkedIn-Jestin%20Thomas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/JestinThomas">
-  <img src="https://img.shields.io/badge/GitHub-JestinThomas-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=A3E4D7&center=true&vCenter=true&width=680&lines=MSc+Data+Science+%E2%80%94+CHRIST+University+%282024%E2%80%932026%29;AI%2FML+Engineer+Intern+%40+TechZia;LLMOps+%7C+RAG+Pipelines+%7C+Generative+AI;IEEE-Published+Researcher+%C2%B7+ICVADV-2026;Government+of+India+Design+Patent+Co-Holder;Open+to+AI%2FML+Engineer+%26+Data+Scientist+Roles" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-📍 **Bengaluru, India** &nbsp;|&nbsp; 🟢 **Open to AI/ML Engineer & Data Scientist roles**
+<a href="https://www.linkedin.com/in/jestin-thomas-90a109317/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=Connect"/>
+</a>
+&ensp;
+<a href="mailto:jestinthomas1507@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&label=Email"/>
+</a>
+&ensp;
+<a href="https://jestin1507.github.io/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-2c5364?style=flat-square&logo=githubpages&logoColor=white&label=Website"/>
+</a>
+&ensp;
+<img src="https://komarev.com/ghpvc/?username=JestinThomas&style=flat-square&color=a3e4d7&label=Profile+Views"/>
+&ensp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square"/>
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+---
+
+```python
+# profile.py
+
+class JestinThomas:
+    degree      = "MSc Data Science — CHRIST University, Bengaluru (2024–2026)"
+    experience  = ["AI/ML Engineer Intern @ TechZia (Jan–Jun 2026)",
+                   "Data Science Intern @ Seeroo IT Solutions (Apr–May 2025)"]
+    research    = "IEEE ICVADV-2026 — Generative AI for Astronomical Classification"
+    patent      = "Govt. of India Design Patent · No. 443142-001"
+    focus       = ["LLMs", "RAG", "Generative AI", "Reinforcement Learning", "Deep Learning"]
+    location    = "Bengaluru, India"
+    seeking     = "AI/ML Engineer · Data Scientist · GenAI Engineer"
+```
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=2&section=header" width="100%"/>
+</div>
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Deep Learning & Computer Vision**
+- CNN + LSTM real-time anomaly detection on AV telemetry (IMU, CAN, GPS)
+- Transfer learning pipelines — ResNet50, VGG16, DenseNet121 — for species and flare classification
+- Spatio-temporal models with GRU + Attention for satellite image sequences
+- Generative model benchmarking: Conditional DCGAN vs VAE vs Diffusion Models on imbalanced astronomical data
+
+</td>
+<td width="50%" valign="top">
+
+**LLMs · GenAI · LLMOps**
+- Enterprise LLMOps platform with automated regression detection and CI/CD quality gates
+- RAG pipelines with LangChain for low-latency intelligent Q&A (62% latency reduction)
+- Multi-Agent RL (DQN-based MARL) for autonomous vehicle cybersecurity
+- NLP sentiment analysis, chatbot development, and prompt engineering workflows
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Data Science & Machine Learning**
+- End-to-end ML pipelines: EDA → feature engineering → model training → deployment
+- Market intelligence platforms: K-Means clustering, Random Forest, predictive analytics
+- KPI reporting, statistical modelling, and business insight extraction at scale
+
+</td>
+<td width="50%" valign="top">
+
+**Deployment & BI**
+- Production REST APIs (Flask / FastAPI) at 100+ req/sec, sub-200ms latency
+- Interactive Streamlit dashboards with recommendation systems and business advisors
+- Power BI and Tableau dashboards: KPI cards, regional heatmaps, dynamic slicers
+- Client-side ML deployment via TensorFlow.js — zero backend infrastructure
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technology
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,r,java,js,sql&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,flask,fastapi&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,react,streamlit,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-2c5364?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## Experience
+
+<table>
+<tr>
+<td width="8%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/2026-0f2027?style=flat-square&labelColor=2c5364&color=2c5364"/>
+</td>
+<td width="92%" valign="top">
+
+**AI / ML Engineer Intern — TechZia** &nbsp; `Jan 2026 – Jun 2026`
+
+Autonomous Vehicle Cybersecurity · Bengaluru
+
+- Architected a **CNN + LSTM real-time anomaly detection pipeline** on AV telemetry streams (IMU, CAN bus, GPS) within **ROS 2 Humble**, running continuous inference across 3 concurrent sensor channels
+- Engineered a **DQN-based Multi-Agent RL (MARL) framework** with 3 specialised agents — sensor security, vehicle behaviour, network cybersecurity — orchestrated by a hierarchical global decision agent
+- Preprocessed the **comma.ai AV dataset** via vectorised NumPy pipelines; researched CNN-Transformer hybrid and GNN-based multi-sensor fusion architectures for vehicle network intrusion detection
+
+</td>
+</tr>
+<tr>
+<td width="8%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/2025-0f2027?style=flat-square&labelColor=203a43&color=203a43"/>
+</td>
+<td width="92%" valign="top">
+
+**Data Science Intern — Seeroo IT Solutions** &nbsp; `Apr 2025 – May 2025`
+
+NLP Pipelines · Conversational AI · Bengaluru
+
+- Optimised NLP inference pipelines achieving **62% latency reduction** while sustaining **500+ queries/day** throughput under production load
+- Built and deployed an end-to-end **AI chatbot** using LangChain and RAG architecture for domain-specific intelligent Q&A
+
+</td>
+</tr>
+</table>
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Model Regression Detection System**
+
+`Python` `Streamlit` `Groq Llama 3.1` `GitHub Actions`
+
+Enterprise-grade **LLMOps platform** for evaluating LLM prompt versions, automatically detecting performance regressions, and generating deployment-ready evaluation reports — integrated into CI/CD via GitHub Actions.
+
+- Benchmarks prompts against golden datasets; tracks classification accuracy across all historical versions
+- Automated quality gate: blocks deployment on detected regression
+- Interactive dashboard — leaderboards, regression history, performance trends
+- Downloadable reports in JSON, CSV, and HTML; modular multi-provider architecture
+
+</td>
+<td width="50%" valign="top">
+
+**Zomato Market Intelligence Platform**
+
+`Python` `Scikit-learn` `Plotly` `Streamlit` `TextBlob`
+
+End-to-end **data science + BI platform** analysing Bengaluru's restaurant ecosystem across 12,000+ listings — from raw data to a live business advisory tool.
+
+- Full pipeline: data cleaning → EDA → feature engineering → sentiment analysis → K-Means segmentation → **Random Forest rating prediction**
+- **Market Expansion Advisor** — scores locations by cuisine demand, competition density, budget, and a custom success metric
+- Streamlit dashboard: market overview, location intelligence, cuisine demand maps
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Automated Species Identification**
+
+`Python` `ResNet50` `VGG16` `TensorFlow` `Flask`
+
+CNN transfer learning on **10,000+ images** across 90 bird species. Accuracy lifted **35% → 91.76%** through systematic hyperparameter tuning (learning rate, batch size, dropout).
+
+- Production REST API (Flask) — 100+ req/sec, <200ms inference latency
+
+</td>
+<td width="50%" valign="top">
+
+**Solar Flare Classification**
+
+`Python` `DenseNet121` `GRU` `Attention` `TensorFlow.js` `React`
+
+Spatio-temporal model on **8,000+ satellite image sequences** — 75% overall accuracy, 58% M-class recall, 36% X-class rare event recall.
+
+- Deployed client-side via **TensorFlow.js in React** — zero backend infrastructure required
+- Research published at **IEEE ICVADV-2026**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**Retail Profitability Intelligence Dashboard**
+
+`Python` `SQL` `Power BI` `Pandas` `NumPy`
+
+Engineered a custom **Profit Margin column** and **Risk Score metric** to flag loss-making transactions from a retail dataset. Built an interactive Power BI dashboard — KPI cards (Total Sales, Profit, Orders, Avg Margin), category-wise sales, regional profit heatmaps, and dynamic slicers — to surface actionable pricing and inventory insights via SQL aggregations.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Research & Intellectual Property
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+**IEEE-Indexed Research Paper** &nbsp; `Feb 2026`
+
+*Synthetic Data Augmentation for Robust Solar Flare Classification: Comparative Analysis of Conditional DCGAN, VAE and Diffusion Models*
+
+IEEE ICVADV-2026 · IEEE Computational Intelligence Society
+
+Benchmarked three generative architectures for synthetic astronomical image generation on severely class-imbalanced datasets. Demonstrated measurable improvements in downstream classifier robustness across M-class and X-class solar flare events.
+
+</td>
+<td width="38%" valign="top">
+
+**Government of India Design Patent** &nbsp; `Jan 2025`
+
+*Mobile Cooler*
+Class 23-04 · Patent No. 443142-001
+
+Original industrial design co-developed and officially registered with the Government of India's Office of the Controller General of Patents, Designs & Trade Marks.
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JestinThomas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a3e4d7&icon_color=a3e4d7&text_color=c9d1d9&ring_color=2c5364" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JestinThomas&layout=compact&hide_border=true&bg_color=0D1117&title_color=a3e4d7&text_color=c9d1d9&langs_count=6" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=JestinThomas&hide_border=true&background=0D1117&ring=2c5364&fire=a3e4d7&currStreakLabel=a3e4d7&sideLabels=a3e4d7&dates=c9d1d9&stroke=2c5364" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JestinThomas&bg_color=0D1117&color=a3e4d7&line=2c5364&point=a3e4d7&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## At a Glance
+
+<div align="center">
+
+<table>
+<tr>
+<th>Education</th>
+<th>Experience</th>
+<th>Research</th>
+<th>Intellectual Property</th>
+</tr>
+<tr>
+<td align="center">MSc Data Science<br/>CHRIST University<br/>2024 – 2026</td>
+<td align="center">AI/ML Intern — TechZia<br/>Data Science — Seeroo IT<br/>6+ months hands-on</td>
+<td align="center">IEEE ICVADV-2026<br/>Generative AI<br/>Published Researcher</td>
+<td align="center">Design Patent<br/>No. 443142-001<br/>Govt. of India</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:jestinthomas1507@gmail.com">
+  <img src="https://img.shields.io/badge/jestinthomas1507%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&ensp;
+<a href="https://www.linkedin.com/in/jestin-thomas-90a109317/">
+  <img src="https://img.shields.io/badge/Jestin%20Thomas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&ensp;
+<a href="https://jestin1507.github.io/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+Bengaluru, India &nbsp;&nbsp;|&nbsp;&nbsp; Open to AI/ML Engineer · Data Scientist · GenAI Engineer roles
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
