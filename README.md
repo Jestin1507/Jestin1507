@@ -32,19 +32,53 @@
 
 ---
 
-```python
-# profile.py
+<div align="center">
 
-class JestinThomas:
-    degree      = "MSc Data Science — CHRIST University, Bengaluru (2024–2026)"
-    experience  = ["AI/ML Engineer Intern @ TechZia (Jan–Jun 2026)",
-                   "Data Science Intern @ Seeroo IT Solutions (Apr–May 2025)"]
-    research    = "IEEE ICVADV-2026 — Generative AI for Astronomical Classification"
-    patent      = "Govt. of India Design Patent · No. 443142-001"
-    focus       = ["LLMs", "RAG", "Generative AI", "Reinforcement Learning", "Deep Learning"]
-    location    = "Bengaluru, India"
-    seeking     = "AI/ML Engineer · Data Scientist · GenAI Engineer"
-```
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/MSc_Data_Science-CHRIST_University-a3e4d7?style=flat-square&labelColor=0f2027&color=2c5364" /><br/>
+<sub><b>2024 – 2026 · Bengaluru</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/AI%2FML_Engineer_Intern-TechZia-a3e4d7?style=flat-square&labelColor=0f2027&color=2c5364" /><br/>
+<sub><b>Jan – Jun 2026</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/IEEE_Published-ICVADV--2026-a3e4d7?style=flat-square&labelColor=0f2027&color=2c5364" /><br/>
+<sub><b>Generative AI · Astronomy</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Design_Patent-No._443142--001-a3e4d7?style=flat-square&labelColor=0f2027&color=2c5364" /><br/>
+<sub><b>Govt. of India · Jan 2025</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" colspan="5">
+<b>Core Focus Areas</b>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/LLMs-%230f2027.svg?style=flat-square&labelColor=2c5364&color=2c5364&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/RAG_Pipelines-%230f2027.svg?style=flat-square&labelColor=203a43&color=203a43"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Generative_AI-%230f2027.svg?style=flat-square&labelColor=2c5364&color=2c5364"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Reinforcement_Learning-%230f2027.svg?style=flat-square&labelColor=203a43&color=203a43"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Deep_Learning-%230f2027.svg?style=flat-square&labelColor=2c5364&color=2c5364"/></td>
+</tr>
+</table>
+
+<br/>
+
+![Location](https://img.shields.io/badge/Bengaluru,_India-0f2027?style=flat-square&logo=googlemaps&logoColor=a3e4d7)
+&ensp;
+![Seeking](https://img.shields.io/badge/Open_to_Work-AI%2FML_Engineer_·_Data_Scientist_·_GenAI_Engineer-22c55e?style=flat-square)
+
+</div>
 
 <br/>
 
@@ -104,19 +138,53 @@ class JestinThomas:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,java,js,sql&theme=dark" />
+**Languages**
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/><sub>Python</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=r&theme=dark" width="48"/><br/><sub>R</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48"/><br/><sub>Java</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/><sub>JavaScript</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/><sub>SQL</sub></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,flask,fastapi&theme=dark" />
+**AI / ML / Deep Learning**
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48"/><br/><sub>TensorFlow</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48"/><br/><sub>PyTorch</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48"/><br/><sub>Scikit-learn</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48"/><br/><sub>Flask</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48"/><br/><sub>FastAPI</sub></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&theme=dark" />
+**Cloud & DevOps**
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48"/><br/><sub>AWS</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48"/><br/><sub>Azure ML</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><sub>Docker</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/><sub>Git</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/><br/><sub>GitHub</sub></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,react,streamlit,vscode&theme=dark" />
+**Data & Deployment**
+
+<table>
+<tr>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/><sub>PostgreSQL</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/><sub>MySQL</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/><sub>React</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=streamlit&theme=dark" width="48"/><br/><sub>Streamlit</sub></td>
+<td align="center" width="80"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/><sub>VS Code</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -185,6 +253,8 @@ NLP Pipelines · Conversational AI · Bengaluru
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/LLMOps_Platform-Regression_Detection-a3e4d7?style=for-the-badge&logo=githubactions&logoColor=0f2027&labelColor=0f2027"/>
+
 **Model Regression Detection System**
 
 `Python` `Streamlit` `Groq Llama 3.1` `GitHub Actions`
@@ -198,6 +268,8 @@ Enterprise-grade **LLMOps platform** for evaluating LLM prompt versions, automat
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Market_Intelligence-Restaurant_Ecosystem-a3e4d7?style=for-the-badge&logo=plotly&logoColor=0f2027&labelColor=0f2027"/>
 
 **Zomato Market Intelligence Platform**
 
@@ -214,6 +286,8 @@ End-to-end **data science + BI platform** analysing Bengaluru's restaurant ecosy
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/Computer_Vision-Species_Identification-a3e4d7?style=for-the-badge&logo=tensorflow&logoColor=0f2027&labelColor=0f2027"/>
+
 **Automated Species Identification**
 
 `Python` `ResNet50` `VGG16` `TensorFlow` `Flask`
@@ -224,6 +298,8 @@ CNN transfer learning on **10,000+ images** across 90 bird species. Accuracy lif
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/IEEE_Published-Solar_Flare_Classification-a3e4d7?style=for-the-badge&logo=ieee&logoColor=0f2027&labelColor=0f2027"/>
 
 **Solar Flare Classification**
 
@@ -238,6 +314,8 @@ Spatio-temporal model on **8,000+ satellite image sequences** — 75% overall ac
 </tr>
 <tr>
 <td colspan="2" valign="top">
+
+<img src="https://img.shields.io/badge/Business_Intelligence-Retail_Profitability_Dashboard-a3e4d7?style=for-the-badge&logo=powerbi&logoColor=0f2027&labelColor=0f2027"/>
 
 **Retail Profitability Intelligence Dashboard**
 
